@@ -1,0 +1,38 @@
+body{
+    text-align: center;
+    background-color: #363636;
+    color:  azure;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.flex-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.logo{
+    margin-top: 30px;
+}
+.login{
+    justify-content: center;
+    flex-direction: column;
+}
+.descricao{
+    color: white;
+}
+.saudacoes{
+    margin-top: 20px;
+}
+h5{
+    font-size: 15px;
+}
+.formulario{
+ display: flex;
+  justify-content: center;
+  background-color:#083971;   
+  height: 100%; 
+  flex-wrap: wrap;
+  align-items: center;
+
+} 
+    
