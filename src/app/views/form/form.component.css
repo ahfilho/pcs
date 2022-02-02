@@ -36,8 +36,17 @@ h5{
 } 
 .telefone,.bairro,.rua,.numero,.pontoRef,.senha{
     margin-top: 2px;
+    float: left;
 }
 .data{
     margin-top: 2px;
-    flex-direction: row;
+    float: left;    
+}
+.problema{
+float: left;
+margin-top: 2px;
+}
+.valorConserto{
+    margin-top: 2px;
+    float: left;
 }
