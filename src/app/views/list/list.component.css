@@ -1,8 +1,9 @@
 body{
     text-align: center;
-    background-color: #363636;
+    background-color:#083971;   
     color:  azure;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    height: 100vh;
 }
 
 .flex-container{
@@ -29,8 +30,6 @@ h5{
 .formulario{
  display: flex;
   justify-content: center;
-  background-color:#083971;   
-  height: 100%; 
   flex-wrap: wrap;
   align-items: center;
 

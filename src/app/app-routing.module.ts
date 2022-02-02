@@ -11,8 +11,8 @@ const routes: Routes = [
     path: '',
 
     //component: LoginComponent
-    component: IndexComponent
-    //component: FormComponent
+    //component: IndexComponent
+    component: FormComponent
     //component: ListComponent
   }
 ];
